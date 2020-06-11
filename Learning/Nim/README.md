@@ -1,0 +1,1 @@
+Reinforcement learning: using Q-learning to build an AI to learn the strategy for “Nim” game.

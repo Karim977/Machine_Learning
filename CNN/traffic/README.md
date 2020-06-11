@@ -1,0 +1,1 @@
+Computer vision: Using a Convolutional neural network “CNN” on the German Traffic Sign Recognition Benchmark (GTSRB) dataset to classify road signs based on an image of those signs with an accuracy of 98.9%.
